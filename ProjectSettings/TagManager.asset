@@ -21,7 +21,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - post
   - 
   - 
   - 
@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: background
+    uniqueID: 1591800661
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
