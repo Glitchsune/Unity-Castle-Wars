@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Cloud_mat
+  m_Name: Cloud2_mat
   m_Shader: {fileID: -6465566751694194690, guid: 9de7c2e64dd4642928200c62aa631347, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -41,7 +41,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _speed: 0.05
+    - _speed: 0.06
     m_Colors: []
   m_BuildTextureStacks: []
 --- !u!114 &2898921889370086831
